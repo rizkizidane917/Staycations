@@ -13,7 +13,7 @@ export default function Button(props) {
   // if (props.isExternal) className.push('btn-external');
 
   const onClick = () => {
-    if (props.onClick) props.onCLick();
+    if (props.onCLick) props.onCLick();
   };
 
   if (props.isDisabled || props.isLoading) {
@@ -35,7 +35,7 @@ export default function Button(props) {
   if (props.type === 'link') {
     if (props.isExternal) {
       return (
-        <a href={props.href} className={className.join(' ')} style={props.style} target={props.target === '_blank' ? '_blank' : undefined} rel={props.target === '_blank' ? 'noopener noreferrer' : undefined}>
+        <a href={props.href} className={className.join(' ')} style={props.style} target={props.target === '_blank' ? '_blank' : undefined} rel='noopener noreferrer'>
           {props.children}
         </a>
       );
@@ -69,5 +69,6 @@ Button.propTypes = {
   isLarge: propTypes.bool,
   isBlock: propTypes.bool,
   isExternal: propTypes.bool,
+  isPrimary: propTypes.bool,
   hasShadow: propTypes.bool,
 };
