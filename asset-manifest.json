@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Staycations/static/css/main.9bf5a83e.chunk.css",
+    "main.js": "/Staycations/static/js/main.71329f40.chunk.js",
+    "main.js.map": "/Staycations/static/js/main.71329f40.chunk.js.map",
+    "runtime-main.js": "/Staycations/static/js/runtime-main.02e086bc.js",
+    "runtime-main.js.map": "/Staycations/static/js/runtime-main.02e086bc.js.map",
+    "static/js/2.abbe431a.chunk.js": "/Staycations/static/js/2.abbe431a.chunk.js",
+    "static/js/2.abbe431a.chunk.js.map": "/Staycations/static/js/2.abbe431a.chunk.js.map",
+    "static/js/3.704f2259.chunk.js": "/Staycations/static/js/3.704f2259.chunk.js",
+    "static/js/3.704f2259.chunk.js.map": "/Staycations/static/js/3.704f2259.chunk.js.map",
+    "index.html": "/Staycations/index.html",
+    "static/css/main.9bf5a83e.chunk.css.map": "/Staycations/static/css/main.9bf5a83e.chunk.css.map",
+    "static/js/2.abbe431a.chunk.js.LICENSE.txt": "/Staycations/static/js/2.abbe431a.chunk.js.LICENSE.txt",
+    "static/media/frame.8a326737.svg": "/Staycations/static/media/frame.8a326737.svg",
+    "static/media/ic_cities.f6a116c8.svg": "/Staycations/static/media/ic_cities.f6a116c8.svg",
+    "static/media/ic_traveler.9d12ee6b.svg": "/Staycations/static/media/ic_traveler.9d12ee6b.svg",
+    "static/media/ic_treasure.fe7890ed.svg": "/Staycations/static/media/ic_treasure.fe7890ed.svg",
+    "static/media/picture.120c8d1e.svg": "/Staycations/static/media/picture.120c8d1e.svg",
+    "static/media/index.scss": "/Staycations/static/media/star.3347b2d9.svg",
+    "static/media/testimonial-landingpages-frame.571aedd6.jpg": "/Staycations/static/media/testimonial-landingpages-frame.571aedd6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02e086bc.js",
+    "static/js/2.abbe431a.chunk.js",
+    "static/css/main.9bf5a83e.chunk.css",
+    "static/js/main.71329f40.chunk.js"
+  ]
+}
